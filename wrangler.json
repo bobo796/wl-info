@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wl-info",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2ea564bc-5d9b-4a26-8169-9450a2998457",
+      "database_name": "wl-info-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
